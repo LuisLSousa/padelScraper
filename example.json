@@ -1,0 +1,2940 @@
+{
+  "results": [
+    {
+      "club_id": "355",
+      "slug": "rackets-pro-saldanha",
+      "club_name": "Rackets Pro - Saldanha",
+      "club_description": "Em pleno cora\u00e7\u00e3o de Lisboa, no Saldanha, encontra-se o mais recente  clube da Rackets Pro, o Rackets Pro Saldanha. Instalado na cobertura do Mercado 31 Janeiro, com uma vista panor\u00e2mica da cidade surge o mais moderno clube de Padel e Fitness, com 5 cobertos e um conceito inovador de fitness - o THE CODE. Com uma esplanada privilegiada para os campos e uma zona lounge com vista sobre a cidade. Jogar e desfrutar do conv\u00edvio nunca foi t\u00e3o f\u00e1cil!",
+      "address": "R. Eng. Vieira da Silva, 1050-094 Lisboa",
+      "logo": "https:\/\/www.aircourts.com\/uploads\/club\/WhatsApp_Image_2021-04-02_at_12_05_53_(1).jpeg",
+      "phone": "21 357 07 03",
+      "zone": "Saldanha",
+      "has_park": "Parque de estacionamento privado",
+      "has_balneary": "Balne\u00e1rios independentes para mulheres e homens",
+      "payment_methods": "Multibanco, Dinheiro, MB Way",
+      "has_bar": "Bar ",
+      "id": "1508",
+      "service_status": "1",
+      "name": "Campo Hilton Tree",
+      "description": "Campo de Padel Panor\u00e2mico",
+      "roof": "2",
+      "lighting": "1",
+      "opening_hour": "07:00:00",
+      "closing_hour": "04:00:00",
+      "booking_length": "60",
+      "booking_calendar_length": "30",
+      "booking_maxlength": "120",
+      "booking_advance": "5",
+      "amount": "0",
+      "lat": "38.7310533",
+      "lng": "-9.1447272",
+      "surface": "Relvado Sint\u00e9tico",
+      "payment_policy": "O valor do aluguer mencionado no e-mail de confirma\u00e7\u00e3o \u00e9 referente a 4 PAX visitantes. O valor real do aluguer a pagar ser\u00e1 ajustado tendo em conta o seguinte pre\u00e7\u00e1rio:<ul><li>Visitantes: 9\u20ac\/PAX\/hora <\/li><li>Membros: 8\u20ac\/PAX\/hora<\/li><li>O valor m\u00ednimo aplic\u00e1vel para utiliza\u00e7\u00e3o do campo \u00e9 de 4 pessoas.<\/li><li>Para as reservas com in\u00edcio ap\u00f3s as 22h00, inclusive, o pagamento dever\u00e1 ser feito antes do in\u00edcio do jogo.<\/li><\/ul><ul><\/ul>",
+      "cancel_policy": "Pode cancelar a reserva na sua \u00e1rea de cliente. Dever\u00e1 cancelar a sua reserva com uma anteced\u00eancia m\u00ednima de 12horas. Caso n\u00e3o se verifique o mencionado no ponto anterior, ser\u00e1 cobrado o valor total do aluguer. O Clube poder\u00e1 alterar o campo da sua reserva caso considere necess\u00e1rio.",
+      "pricing_system_version": "2",
+      "rating": "4.6957",
+      "rating_count": "138",
+      "available_material": "Disponibilizamos raquetes e bolas para alugar",
+      "club_rating": "4.693",
+      "club_rating_count": "759",
+      "uses_slot_optimization": "0",
+      "currency": "\u20ac",
+      "uses_payment_collaterals": "0",
+      "price": "12.67",
+      "favorited": "1",
+      "slots": [
+        {
+          "id": "28373134169",
+          "date": "2022-03-24",
+          "start": "07:00",
+          "end": "07:30",
+          "court_id": "1508",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 2,
+          "durations": [
+            60,
+            90
+          ]
+        },
+        {
+          "id": "28373134170",
+          "date": "2022-03-24",
+          "start": "07:30",
+          "end": "08:00",
+          "court_id": "1508",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 1,
+          "durations": [
+            60
+          ]
+        },
+        {
+          "id": "28373134171",
+          "date": "2022-03-24",
+          "start": "08:00",
+          "end": "08:30",
+          "court_id": "1508",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 0,
+          "lock_reason": "insufficient_duration",
+          "durations": []
+        },
+        {
+          "id": "28373134172",
+          "date": "2022-03-24",
+          "start": "08:30",
+          "end": "09:00",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134173",
+          "date": "2022-03-24",
+          "start": "09:00",
+          "end": "09:30",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134174",
+          "date": "2022-03-24",
+          "start": "09:30",
+          "end": "10:00",
+          "court_id": "1508",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 0,
+          "lock_reason": "insufficient_duration",
+          "durations": []
+        },
+        {
+          "id": "28373134175",
+          "date": "2022-03-24",
+          "start": "10:00",
+          "end": "10:30",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134176",
+          "date": "2022-03-24",
+          "start": "10:30",
+          "end": "11:00",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134177",
+          "date": "2022-03-24",
+          "start": "11:00",
+          "end": "11:30",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134178",
+          "date": "2022-03-24",
+          "start": "11:30",
+          "end": "12:00",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134179",
+          "date": "2022-03-24",
+          "start": "12:00",
+          "end": "12:30",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134180",
+          "date": "2022-03-24",
+          "start": "12:30",
+          "end": "13:00",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134181",
+          "date": "2022-03-24",
+          "start": "13:00",
+          "end": "13:30",
+          "court_id": "1508",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 1,
+          "durations": [
+            60
+          ]
+        },
+        {
+          "id": "28373134182",
+          "date": "2022-03-24",
+          "start": "13:30",
+          "end": "14:00",
+          "court_id": "1508",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 0,
+          "lock_reason": "insufficient_duration",
+          "durations": []
+        },
+        {
+          "id": "28373134183",
+          "date": "2022-03-24",
+          "start": "14:00",
+          "end": "14:30",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134184",
+          "date": "2022-03-24",
+          "start": "14:30",
+          "end": "15:00",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134185",
+          "date": "2022-03-24",
+          "start": "15:00",
+          "end": "15:30",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134186",
+          "date": "2022-03-24",
+          "start": "15:30",
+          "end": "16:00",
+          "court_id": "1508",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 0,
+          "lock_reason": "insufficient_duration",
+          "durations": []
+        },
+        {
+          "id": "28373134187",
+          "date": "2022-03-24",
+          "start": "16:00",
+          "end": "16:30",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134188",
+          "date": "2022-03-24",
+          "start": "16:30",
+          "end": "17:00",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134189",
+          "date": "2022-03-24",
+          "start": "17:00",
+          "end": "17:30",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134190",
+          "date": "2022-03-24",
+          "start": "17:30",
+          "end": "18:00",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134191",
+          "date": "2022-03-24",
+          "start": "18:00",
+          "end": "18:30",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134192",
+          "date": "2022-03-24",
+          "start": "18:30",
+          "end": "19:00",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134193",
+          "date": "2022-03-24",
+          "start": "19:00",
+          "end": "19:30",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134194",
+          "date": "2022-03-24",
+          "start": "19:30",
+          "end": "20:00",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134195",
+          "date": "2022-03-24",
+          "start": "20:00",
+          "end": "20:30",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134196",
+          "date": "2022-03-24",
+          "start": "20:30",
+          "end": "21:00",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134197",
+          "date": "2022-03-24",
+          "start": "21:00",
+          "end": "21:30",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134198",
+          "date": "2022-03-24",
+          "start": "21:30",
+          "end": "22:00",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134199",
+          "date": "2022-03-24",
+          "start": "22:00",
+          "end": "22:30",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134200",
+          "date": "2022-03-24",
+          "start": "22:30",
+          "end": "23:00",
+          "court_id": "1508",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134201",
+          "date": "2022-03-24",
+          "start": "23:00",
+          "end": "23:30",
+          "court_id": "1508",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 1,
+          "durations": [
+            60
+          ]
+        },
+        {
+          "id": "28373134202",
+          "date": "2022-03-24",
+          "start": "23:30",
+          "end": "00:00",
+          "court_id": "1508",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 0,
+          "lock_reason": "insufficient_duration",
+          "durations": []
+        }
+      ],
+      "photos": [
+        {
+          "id": "5565",
+          "court_id": "1508",
+          "path": "https:\/\/www.aircourts.com\/uploads\/courts\/courts_1508_1518111786.JPG",
+          "title": "",
+          "is_cover": "0",
+          "created_on": "2018-02-08 17:43:06"
+        },
+        {
+          "id": "5566",
+          "court_id": "1508",
+          "path": "https:\/\/www.aircourts.com\/uploads\/courts\/courts_1508_1518111802.JPG",
+          "title": "",
+          "is_cover": "1",
+          "created_on": "2018-02-08 17:43:22"
+        },
+        {
+          "id": "5568",
+          "court_id": "1508",
+          "path": "https:\/\/www.aircourts.com\/uploads\/courts\/courts_1508_1518111834.JPG",
+          "title": "",
+          "is_cover": "0",
+          "created_on": "2018-02-08 17:43:54"
+        },
+        {
+          "id": "5627",
+          "court_id": "1508",
+          "path": "https:\/\/www.aircourts.com\/uploads\/courts\/courts_1508_1520951322.jpg",
+          "title": "",
+          "is_cover": "0",
+          "created_on": "2018-03-13 14:28:42"
+        },
+        {
+          "id": "5628",
+          "court_id": "1508",
+          "path": "https:\/\/www.aircourts.com\/uploads\/courts\/courts_1508_1520951334.jpg",
+          "title": "",
+          "is_cover": "0",
+          "created_on": "2018-03-13 14:28:54"
+        }
+      ],
+      "sports": [
+        {
+          "id": "4",
+          "name": "Padel",
+          "image": "http:\/\/www.aircourts.com\/img\/sports\/padel_24x24.png",
+          "photo": "http:\/\/www.aircourts.com\/img\/sports\/padel_24x24.png",
+          "cover_photo": "http:\/\/www.aircourts.com\/img\/sports\/padel20.jpg",
+          "commission": "1.5",
+          "order_number": "0",
+          "court_id": "1508"
+        }
+      ],
+      "schedules": {
+        "schedule": {
+          "court_id": "1508",
+          "monday_open": "07:00:00",
+          "monday_close": "00:00:00",
+          "tuesday_open": "07:00:00",
+          "tuesday_close": "00:00:00",
+          "wednesday_open": "07:00:00",
+          "wednesday_close": "00:00:00",
+          "thursday_open": "07:00:00",
+          "thursday_close": "00:00:00",
+          "friday_open": "07:00:00",
+          "friday_close": "23:00:00",
+          "saturday_open": "08:00:00",
+          "saturday_close": "20:00:00",
+          "sunday_open": "08:00:00",
+          "sunday_close": "00:00:00",
+          "created_on": "2018-02-08 12:13:37"
+        },
+        "opening": "2022-03-24 07:00:00",
+        "closing": "2022-03-25 00:00:00",
+        "opening_time": "07:00:00",
+        "closing_time": "00:00:00",
+        "opening_timestamp": 1648105200,
+        "closing_timestamp": 1648166400,
+        "offline": false
+      },
+      "pricing": [
+        {
+          "id": "2268",
+          "court_id": "1508",
+          "options": "pre\u00e7o antigo (ignorar)",
+          "price": "10",
+          "active": "1",
+          "created_on": "2018-02-08 18:02:23"
+        }
+      ],
+      "pricing_extras": [
+        {
+          "id": "1337",
+          "court_id": "1508",
+          "name": "Aluguer Bolas",
+          "price_modifier": 3,
+          "modifier_type": "absolute",
+          "duration_dependent": "0",
+          "price_tier": "0",
+          "active": "1",
+          "created_on": "2018-02-11 19:51:22"
+        },
+        {
+          "id": "1822",
+          "court_id": "1508",
+          "name": "Aluguer de Raquetes",
+          "price_modifier": 3,
+          "modifier_type": "absolute",
+          "duration_dependent": "0",
+          "price_tier": "0",
+          "active": "1",
+          "created_on": "2021-09-19 17:06:21"
+        },
+        {
+          "id": "1823",
+          "court_id": "1508",
+          "name": "Aluguer Raquetes de Teste",
+          "price_modifier": 6,
+          "modifier_type": "absolute",
+          "duration_dependent": "0",
+          "price_tier": "0",
+          "active": "1",
+          "created_on": "2021-09-19 17:06:45"
+        }
+      ],
+      "price_tiers": [],
+      "advance_exceeded": 0,
+      "smart": 5885.2880941176472333609126508235931396484375,
+      "members_only": 0
+    },
+    {
+      "club_id": "355",
+      "slug": "rackets-pro-saldanha",
+      "club_name": "Rackets Pro - Saldanha",
+      "club_description": "Em pleno cora\u00e7\u00e3o de Lisboa, no Saldanha, encontra-se o mais recente  clube da Rackets Pro, o Rackets Pro Saldanha. Instalado na cobertura do Mercado 31 Janeiro, com uma vista panor\u00e2mica da cidade surge o mais moderno clube de Padel e Fitness, com 5 cobertos e um conceito inovador de fitness - o THE CODE. Com uma esplanada privilegiada para os campos e uma zona lounge com vista sobre a cidade. Jogar e desfrutar do conv\u00edvio nunca foi t\u00e3o f\u00e1cil!",
+      "address": "R. Eng. Vieira da Silva, 1050-094 Lisboa",
+      "logo": "https:\/\/www.aircourts.com\/uploads\/club\/WhatsApp_Image_2021-04-02_at_12_05_53_(1).jpeg",
+      "phone": "21 357 07 03",
+      "zone": "Saldanha",
+      "has_park": "Parque de estacionamento privado",
+      "has_balneary": "Balne\u00e1rios independentes para mulheres e homens",
+      "payment_methods": "Multibanco, Dinheiro, MB Way",
+      "has_bar": "Bar ",
+      "id": "1509",
+      "service_status": "1",
+      "name": "Campo Heineken",
+      "description": "Campo de Padel Panor\u00e2mico",
+      "roof": "2",
+      "lighting": "1",
+      "opening_hour": "07:00:00",
+      "closing_hour": "04:00:00",
+      "booking_length": "60",
+      "booking_calendar_length": "30",
+      "booking_maxlength": "120",
+      "booking_advance": "5",
+      "amount": "0",
+      "lat": "38.7310533",
+      "lng": "-9.1447272",
+      "surface": "Relvado Sint\u00e9tico",
+      "payment_policy": "O valor do aluguer mencionado no e-mail de confirma\u00e7\u00e3o \u00e9 referente a 4 PAX visitantes. O valor real do aluguer a pagar ser\u00e1 ajustado tendo em conta o seguinte pre\u00e7\u00e1rio:<ul><li>Visitantes: 9\u20ac\/PAX\/hora <\/li><li>Membros: 8\u20ac\/PAX\/hora<\/li><li>O valor m\u00ednimo aplic\u00e1vel para utiliza\u00e7\u00e3o do campo \u00e9 de 4 pessoas.<\/li><li>Para as reservas com in\u00edcio ap\u00f3s as 22h00, inclusive, o pagamento dever\u00e1 ser feito antes do in\u00edcio do jogo.<\/li><\/ul><ul><\/ul>",
+      "cancel_policy": "Pode cancelar a reserva na sua \u00e1rea de cliente. Dever\u00e1 cancelar a sua reserva com uma anteced\u00eancia m\u00ednima de 12 horas. Caso n\u00e3o se verifique o mencionado no ponto anterior, ser\u00e1 cobrado o valor total do aluguer. O Clube poder\u00e1 alterar o campo da sua reserva caso considere necess\u00e1rio.",
+      "pricing_system_version": "2",
+      "rating": "4.6053",
+      "rating_count": "152",
+      "available_material": "Disponibilizamos raquetes e bolas para alugar",
+      "club_rating": "4.693",
+      "club_rating_count": "759",
+      "uses_slot_optimization": "0",
+      "currency": "\u20ac",
+      "uses_payment_collaterals": "0",
+      "price": "18.00",
+      "favorited": "1",
+      "slots": [
+        {
+          "id": "28373134361",
+          "date": "2022-03-24",
+          "start": "07:00",
+          "end": "07:30",
+          "court_id": "1509",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134362",
+          "date": "2022-03-24",
+          "start": "07:30",
+          "end": "08:00",
+          "court_id": "1509",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134363",
+          "date": "2022-03-24",
+          "start": "08:00",
+          "end": "08:30",
+          "court_id": "1509",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 3,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134364",
+          "date": "2022-03-24",
+          "start": "08:30",
+          "end": "09:00",
+          "court_id": "1509",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 2,
+          "durations": [
+            60,
+            90
+          ]
+        },
+        {
+          "id": "28373134365",
+          "date": "2022-03-24",
+          "start": "09:00",
+          "end": "09:30",
+          "court_id": "1509",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 1,
+          "durations": [
+            60
+          ]
+        },
+        {
+          "id": "28373134366",
+          "date": "2022-03-24",
+          "start": "09:30",
+          "end": "10:00",
+          "court_id": "1509",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 0,
+          "lock_reason": "insufficient_duration",
+          "durations": []
+        },
+        {
+          "id": "28373134367",
+          "date": "2022-03-24",
+          "start": "10:00",
+          "end": "10:30",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134368",
+          "date": "2022-03-24",
+          "start": "10:30",
+          "end": "11:00",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134369",
+          "date": "2022-03-24",
+          "start": "11:00",
+          "end": "11:30",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134370",
+          "date": "2022-03-24",
+          "start": "11:30",
+          "end": "12:00",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134371",
+          "date": "2022-03-24",
+          "start": "12:00",
+          "end": "12:30",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134372",
+          "date": "2022-03-24",
+          "start": "12:30",
+          "end": "13:00",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134373",
+          "date": "2022-03-24",
+          "start": "13:00",
+          "end": "13:30",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134374",
+          "date": "2022-03-24",
+          "start": "13:30",
+          "end": "14:00",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134375",
+          "date": "2022-03-24",
+          "start": "14:00",
+          "end": "14:30",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134376",
+          "date": "2022-03-24",
+          "start": "14:30",
+          "end": "15:00",
+          "court_id": "1509",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 2,
+          "durations": [
+            60,
+            90
+          ]
+        },
+        {
+          "id": "28373134377",
+          "date": "2022-03-24",
+          "start": "15:00",
+          "end": "15:30",
+          "court_id": "1509",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 1,
+          "durations": [
+            60
+          ]
+        },
+        {
+          "id": "28373134378",
+          "date": "2022-03-24",
+          "start": "15:30",
+          "end": "16:00",
+          "court_id": "1509",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 0,
+          "lock_reason": "insufficient_duration",
+          "durations": []
+        },
+        {
+          "id": "28373134379",
+          "date": "2022-03-24",
+          "start": "16:00",
+          "end": "16:30",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134380",
+          "date": "2022-03-24",
+          "start": "16:30",
+          "end": "17:00",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134381",
+          "date": "2022-03-24",
+          "start": "17:00",
+          "end": "17:30",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134382",
+          "date": "2022-03-24",
+          "start": "17:30",
+          "end": "18:00",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134383",
+          "date": "2022-03-24",
+          "start": "18:00",
+          "end": "18:30",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134384",
+          "date": "2022-03-24",
+          "start": "18:30",
+          "end": "19:00",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134385",
+          "date": "2022-03-24",
+          "start": "19:00",
+          "end": "19:30",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134386",
+          "date": "2022-03-24",
+          "start": "19:30",
+          "end": "20:00",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134387",
+          "date": "2022-03-24",
+          "start": "20:00",
+          "end": "20:30",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134388",
+          "date": "2022-03-24",
+          "start": "20:30",
+          "end": "21:00",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134389",
+          "date": "2022-03-24",
+          "start": "21:00",
+          "end": "21:30",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134390",
+          "date": "2022-03-24",
+          "start": "21:30",
+          "end": "22:00",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134391",
+          "date": "2022-03-24",
+          "start": "22:00",
+          "end": "22:30",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134392",
+          "date": "2022-03-24",
+          "start": "22:30",
+          "end": "23:00",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134393",
+          "date": "2022-03-24",
+          "start": "23:00",
+          "end": "23:30",
+          "court_id": "1509",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134394",
+          "date": "2022-03-24",
+          "start": "23:30",
+          "end": "00:00",
+          "court_id": "1509",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 0,
+          "lock_reason": "insufficient_duration",
+          "durations": []
+        }
+      ],
+      "photos": [
+        {
+          "id": "5629",
+          "court_id": "1509",
+          "path": "https:\/\/www.aircourts.com\/uploads\/courts\/courts_1509_1520951388.jpg",
+          "title": "",
+          "is_cover": "0",
+          "created_on": "2018-03-13 14:29:49"
+        },
+        {
+          "id": "5630",
+          "court_id": "1509",
+          "path": "https:\/\/www.aircourts.com\/uploads\/courts\/courts_1509_1520951397.jpg",
+          "title": "",
+          "is_cover": "0",
+          "created_on": "2018-03-13 14:29:57"
+        }
+      ],
+      "sports": [
+        {
+          "id": "4",
+          "name": "Padel",
+          "image": "http:\/\/www.aircourts.com\/img\/sports\/padel_24x24.png",
+          "photo": "http:\/\/www.aircourts.com\/img\/sports\/padel_24x24.png",
+          "cover_photo": "http:\/\/www.aircourts.com\/img\/sports\/padel20.jpg",
+          "commission": "1.5",
+          "order_number": "0",
+          "court_id": "1509"
+        }
+      ],
+      "schedules": {
+        "schedule": {
+          "court_id": "1509",
+          "monday_open": "07:00:00",
+          "monday_close": "00:00:00",
+          "tuesday_open": "07:00:00",
+          "tuesday_close": "00:00:00",
+          "wednesday_open": "07:00:00",
+          "wednesday_close": "00:00:00",
+          "thursday_open": "07:00:00",
+          "thursday_close": "00:00:00",
+          "friday_open": "07:00:00",
+          "friday_close": "23:00:00",
+          "saturday_open": "08:00:00",
+          "saturday_close": "20:00:00",
+          "sunday_open": "08:00:00",
+          "sunday_close": "00:00:00",
+          "created_on": "2018-02-08 12:14:47"
+        },
+        "opening": "2022-03-24 07:00:00",
+        "closing": "2022-03-25 00:00:00",
+        "opening_time": "07:00:00",
+        "closing_time": "00:00:00",
+        "opening_timestamp": 1648105200,
+        "closing_timestamp": 1648166400,
+        "offline": false
+      },
+      "pricing": [
+        {
+          "id": "2269",
+          "court_id": "1509",
+          "options": "pre\u00e7o antigo (ignorar)",
+          "price": "10",
+          "active": "1",
+          "created_on": "2018-02-08 18:02:36"
+        }
+      ],
+      "pricing_extras": [
+        {
+          "id": "1338",
+          "court_id": "1509",
+          "name": "Aluguer Bolas",
+          "price_modifier": 3,
+          "modifier_type": "absolute",
+          "duration_dependent": "0",
+          "price_tier": "0",
+          "active": "1",
+          "created_on": "2018-02-11 19:51:43"
+        },
+        {
+          "id": "1824",
+          "court_id": "1509",
+          "name": "Aluguer de Raquetes",
+          "price_modifier": 3,
+          "modifier_type": "absolute",
+          "duration_dependent": "0",
+          "price_tier": "0",
+          "active": "1",
+          "created_on": "2021-09-19 17:08:50"
+        },
+        {
+          "id": "1825",
+          "court_id": "1509",
+          "name": "Aluguer de raquetes de teste",
+          "price_modifier": 6,
+          "modifier_type": "absolute",
+          "duration_dependent": "0",
+          "price_tier": "0",
+          "active": "1",
+          "created_on": "2021-09-19 17:09:06"
+        }
+      ],
+      "price_tiers": [],
+      "advance_exceeded": 0,
+      "smart": 6374.397741176469935453496873378753662109375,
+      "members_only": 0
+    },
+    {
+      "club_id": "355",
+      "slug": "rackets-pro-saldanha",
+      "club_name": "Rackets Pro - Saldanha",
+      "club_description": "Em pleno cora\u00e7\u00e3o de Lisboa, no Saldanha, encontra-se o mais recente  clube da Rackets Pro, o Rackets Pro Saldanha. Instalado na cobertura do Mercado 31 Janeiro, com uma vista panor\u00e2mica da cidade surge o mais moderno clube de Padel e Fitness, com 5 cobertos e um conceito inovador de fitness - o THE CODE. Com uma esplanada privilegiada para os campos e uma zona lounge com vista sobre a cidade. Jogar e desfrutar do conv\u00edvio nunca foi t\u00e3o f\u00e1cil!",
+      "address": "R. Eng. Vieira da Silva, 1050-094 Lisboa",
+      "logo": "https:\/\/www.aircourts.com\/uploads\/club\/WhatsApp_Image_2021-04-02_at_12_05_53_(1).jpeg",
+      "phone": "21 357 07 03",
+      "zone": "Saldanha",
+      "has_park": "Parque de estacionamento privado",
+      "has_balneary": "Balne\u00e1rios independentes para mulheres e homens",
+      "payment_methods": "Multibanco, Dinheiro, MB Way",
+      "has_bar": "Bar ",
+      "id": "1510",
+      "service_status": "1",
+      "name": "Campo Lacoste",
+      "description": "Campo de Padel Panor\u00e2mico",
+      "roof": "2",
+      "lighting": "1",
+      "opening_hour": "07:30:00",
+      "closing_hour": "04:00:00",
+      "booking_length": "60",
+      "booking_calendar_length": "30",
+      "booking_maxlength": "120",
+      "booking_advance": "5",
+      "amount": "0",
+      "lat": "38.7310533",
+      "lng": "-9.1447272",
+      "surface": "Relvado Sint\u00e9tico",
+      "payment_policy": "O valor do aluguer mencionado no e-mail de confirma\u00e7\u00e3o \u00e9 referente a 4 PAX visitantes. O valor real do aluguer a pagar ser\u00e1 ajustado tendo em conta o seguinte pre\u00e7\u00e1rio:<ul><li>Visitantes: 9\u20ac\/PAX\/hora <\/li><li>Membros: 8\u20ac\/PAX\/hora<\/li><li>O valor m\u00ednimo aplic\u00e1vel para utiliza\u00e7\u00e3o do campo \u00e9 de 4 pessoas.<\/li><li>Para as reservas com in\u00edcio ap\u00f3s as 22h00, inclusive, o pagamento dever\u00e1 ser feito antes do in\u00edcio do jogo.<\/li><\/ul><ul><\/ul>",
+      "cancel_policy": "Pode cancelar a reserva na sua \u00e1rea de cliente. Dever\u00e1 cancelar a sua reserva com uma anteced\u00eancia m\u00ednima de 12 horas. Caso n\u00e3o se verifique o mencionado no ponto anterior, ser\u00e1 cobrado o valor total do aluguer. O Clube poder\u00e1 alterar o campo da sua reserva caso considere necess\u00e1rio.",
+      "pricing_system_version": "2",
+      "rating": "4.6988",
+      "rating_count": "166",
+      "available_material": "Disponibilizamos raquetes e bolas para alugar",
+      "club_rating": "4.693",
+      "club_rating_count": "759",
+      "uses_slot_optimization": "0",
+      "currency": "\u20ac",
+      "uses_payment_collaterals": "0",
+      "price": "12.66",
+      "favorited": "1",
+      "slots": [
+        {
+          "id": "28373134553",
+          "date": "2022-03-24",
+          "start": "07:00",
+          "end": "07:30",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134554",
+          "date": "2022-03-24",
+          "start": "07:30",
+          "end": "08:00",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134555",
+          "date": "2022-03-24",
+          "start": "08:00",
+          "end": "08:30",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134556",
+          "date": "2022-03-24",
+          "start": "08:30",
+          "end": "09:00",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134557",
+          "date": "2022-03-24",
+          "start": "09:00",
+          "end": "09:30",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134558",
+          "date": "2022-03-24",
+          "start": "09:30",
+          "end": "10:00",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134559",
+          "date": "2022-03-24",
+          "start": "10:00",
+          "end": "10:30",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134560",
+          "date": "2022-03-24",
+          "start": "10:30",
+          "end": "11:00",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 3,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134561",
+          "date": "2022-03-24",
+          "start": "11:00",
+          "end": "11:30",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 2,
+          "durations": [
+            60,
+            90
+          ]
+        },
+        {
+          "id": "28373134562",
+          "date": "2022-03-24",
+          "start": "11:30",
+          "end": "12:00",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 1,
+          "durations": [
+            60
+          ]
+        },
+        {
+          "id": "28373134563",
+          "date": "2022-03-24",
+          "start": "12:00",
+          "end": "12:30",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 0,
+          "lock_reason": "insufficient_duration",
+          "durations": []
+        },
+        {
+          "id": "28373134564",
+          "date": "2022-03-24",
+          "start": "12:30",
+          "end": "13:00",
+          "court_id": "1510",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134565",
+          "date": "2022-03-24",
+          "start": "13:00",
+          "end": "13:30",
+          "court_id": "1510",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134566",
+          "date": "2022-03-24",
+          "start": "13:30",
+          "end": "14:00",
+          "court_id": "1510",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134567",
+          "date": "2022-03-24",
+          "start": "14:00",
+          "end": "14:30",
+          "court_id": "1510",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134568",
+          "date": "2022-03-24",
+          "start": "14:30",
+          "end": "15:00",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134569",
+          "date": "2022-03-24",
+          "start": "15:00",
+          "end": "15:30",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134570",
+          "date": "2022-03-24",
+          "start": "15:30",
+          "end": "16:00",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134571",
+          "date": "2022-03-24",
+          "start": "16:00",
+          "end": "16:30",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 3,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134572",
+          "date": "2022-03-24",
+          "start": "16:30",
+          "end": "17:00",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 2,
+          "durations": [
+            60,
+            90
+          ]
+        },
+        {
+          "id": "28373134573",
+          "date": "2022-03-24",
+          "start": "17:00",
+          "end": "17:30",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 1,
+          "durations": [
+            60
+          ]
+        },
+        {
+          "id": "28373134574",
+          "date": "2022-03-24",
+          "start": "17:30",
+          "end": "18:00",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 0,
+          "lock_reason": "insufficient_duration",
+          "durations": []
+        },
+        {
+          "id": "28373134575",
+          "date": "2022-03-24",
+          "start": "18:00",
+          "end": "18:30",
+          "court_id": "1510",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134576",
+          "date": "2022-03-24",
+          "start": "18:30",
+          "end": "19:00",
+          "court_id": "1510",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134577",
+          "date": "2022-03-24",
+          "start": "19:00",
+          "end": "19:30",
+          "court_id": "1510",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134578",
+          "date": "2022-03-24",
+          "start": "19:30",
+          "end": "20:00",
+          "court_id": "1510",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134579",
+          "date": "2022-03-24",
+          "start": "20:00",
+          "end": "20:30",
+          "court_id": "1510",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134580",
+          "date": "2022-03-24",
+          "start": "20:30",
+          "end": "21:00",
+          "court_id": "1510",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134581",
+          "date": "2022-03-24",
+          "start": "21:00",
+          "end": "21:30",
+          "court_id": "1510",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134582",
+          "date": "2022-03-24",
+          "start": "21:30",
+          "end": "22:00",
+          "court_id": "1510",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134583",
+          "date": "2022-03-24",
+          "start": "22:00",
+          "end": "22:30",
+          "court_id": "1510",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134584",
+          "date": "2022-03-24",
+          "start": "22:30",
+          "end": "23:00",
+          "court_id": "1510",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134585",
+          "date": "2022-03-24",
+          "start": "23:00",
+          "end": "23:30",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 1,
+          "durations": [
+            60
+          ]
+        },
+        {
+          "id": "28373134586",
+          "date": "2022-03-24",
+          "start": "23:30",
+          "end": "00:00",
+          "court_id": "1510",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 0,
+          "lock_reason": "insufficient_duration",
+          "durations": []
+        }
+      ],
+      "photos": [
+        {
+          "id": "5631",
+          "court_id": "1510",
+          "path": "https:\/\/www.aircourts.com\/uploads\/courts\/courts_1510_1520951442.jpg",
+          "title": "",
+          "is_cover": "0",
+          "created_on": "2018-03-13 14:30:42"
+        },
+        {
+          "id": "5632",
+          "court_id": "1510",
+          "path": "https:\/\/www.aircourts.com\/uploads\/courts\/courts_1510_1520951449.jpg",
+          "title": "",
+          "is_cover": "0",
+          "created_on": "2018-03-13 14:30:49"
+        }
+      ],
+      "sports": [
+        {
+          "id": "4",
+          "name": "Padel",
+          "image": "http:\/\/www.aircourts.com\/img\/sports\/padel_24x24.png",
+          "photo": "http:\/\/www.aircourts.com\/img\/sports\/padel_24x24.png",
+          "cover_photo": "http:\/\/www.aircourts.com\/img\/sports\/padel20.jpg",
+          "commission": "1.5",
+          "order_number": "0",
+          "court_id": "1510"
+        }
+      ],
+      "schedules": {
+        "schedule": {
+          "court_id": "1510",
+          "monday_open": "07:00:00",
+          "monday_close": "00:00:00",
+          "tuesday_open": "07:00:00",
+          "tuesday_close": "00:00:00",
+          "wednesday_open": "07:00:00",
+          "wednesday_close": "00:00:00",
+          "thursday_open": "07:00:00",
+          "thursday_close": "00:00:00",
+          "friday_open": "07:00:00",
+          "friday_close": "23:00:00",
+          "saturday_open": "08:00:00",
+          "saturday_close": "20:00:00",
+          "sunday_open": "08:00:00",
+          "sunday_close": "00:00:00",
+          "created_on": "2018-02-08 12:14:47"
+        },
+        "opening": "2022-03-24 07:00:00",
+        "closing": "2022-03-25 00:00:00",
+        "opening_time": "07:00:00",
+        "closing_time": "00:00:00",
+        "opening_timestamp": 1648105200,
+        "closing_timestamp": 1648166400,
+        "offline": false
+      },
+      "pricing": [
+        {
+          "id": "2270",
+          "court_id": "1510",
+          "options": "pre\u00e7o antigo (ignorar)",
+          "price": "10",
+          "active": "1",
+          "created_on": "2018-02-08 18:02:48"
+        }
+      ],
+      "pricing_extras": [
+        {
+          "id": "1339",
+          "court_id": "1510",
+          "name": "Aluguer Bolas",
+          "price_modifier": 3,
+          "modifier_type": "absolute",
+          "duration_dependent": "0",
+          "price_tier": "0",
+          "active": "1",
+          "created_on": "2018-02-11 19:51:54"
+        },
+        {
+          "id": "1826",
+          "court_id": "1510",
+          "name": "Aluguer de raquetes",
+          "price_modifier": 3,
+          "modifier_type": "absolute",
+          "duration_dependent": "0",
+          "price_tier": "0",
+          "active": "1",
+          "created_on": "2021-09-19 17:09:34"
+        },
+        {
+          "id": "1827",
+          "court_id": "1510",
+          "name": "Aluguer de raquetes de teste",
+          "price_modifier": 6,
+          "modifier_type": "absolute",
+          "duration_dependent": "0",
+          "price_tier": "0",
+          "active": "1",
+          "created_on": "2021-09-19 17:09:55"
+        }
+      ],
+      "price_tiers": [],
+      "advance_exceeded": 0,
+      "smart": 7095.535811764706522808410227298736572265625,
+      "members_only": 0
+    },
+    {
+      "club_id": "355",
+      "slug": "rackets-pro-saldanha",
+      "club_name": "Rackets Pro - Saldanha",
+      "club_description": "Em pleno cora\u00e7\u00e3o de Lisboa, no Saldanha, encontra-se o mais recente  clube da Rackets Pro, o Rackets Pro Saldanha. Instalado na cobertura do Mercado 31 Janeiro, com uma vista panor\u00e2mica da cidade surge o mais moderno clube de Padel e Fitness, com 5 cobertos e um conceito inovador de fitness - o THE CODE. Com uma esplanada privilegiada para os campos e uma zona lounge com vista sobre a cidade. Jogar e desfrutar do conv\u00edvio nunca foi t\u00e3o f\u00e1cil!",
+      "address": "R. Eng. Vieira da Silva, 1050-094 Lisboa",
+      "logo": "https:\/\/www.aircourts.com\/uploads\/club\/WhatsApp_Image_2021-04-02_at_12_05_53_(1).jpeg",
+      "phone": "21 357 07 03",
+      "zone": "Saldanha",
+      "has_park": "Parque de estacionamento privado",
+      "has_balneary": "Balne\u00e1rios independentes para mulheres e homens",
+      "payment_methods": "Multibanco, Dinheiro, MB Way",
+      "has_bar": "Bar ",
+      "id": "1511",
+      "service_status": "1",
+      "name": "Campo Vichy",
+      "description": "Campo de Padel Panor\u00e2mico",
+      "roof": "2",
+      "lighting": "1",
+      "opening_hour": "07:00:00",
+      "closing_hour": "04:00:00",
+      "booking_length": "60",
+      "booking_calendar_length": "30",
+      "booking_maxlength": "120",
+      "booking_advance": "5",
+      "amount": "0",
+      "lat": "38.7310533",
+      "lng": "-9.1447272",
+      "surface": "Relvado Sint\u00e9tico",
+      "payment_policy": "O valor do aluguer mencionado no e-mail de confirma\u00e7\u00e3o \u00e9 referente a 4 PAX visitantes. O valor real do aluguer a pagar ser\u00e1 ajustado tendo em conta o seguinte pre\u00e7\u00e1rio:<ul><li>Visitantes: 9\u20ac\/PAX\/hora <\/li><li>Membros: 8\u20ac\/PAX\/hora<\/li><li>O valor m\u00ednimo aplic\u00e1vel para utiliza\u00e7\u00e3o do campo \u00e9 de 4 pessoas.<\/li><li>Para as reservas com in\u00edcio ap\u00f3s as 22h00, inclusive, o pagamento dever\u00e1 ser feito antes do in\u00edcio do jogo.<\/li><\/ul><ul><\/ul>",
+      "cancel_policy": "Pode cancelar a reserva na sua \u00e1rea de cliente. Dever\u00e1 cancelar a sua reserva com uma anteced\u00eancia m\u00ednima de 12 horas. Caso n\u00e3o se verifique o mencionado no ponto anterior, ser\u00e1 cobrado o valor total do aluguer. O Clube poder\u00e1 alterar o campo da sua reserva caso considere necess\u00e1rio.",
+      "pricing_system_version": "2",
+      "rating": "4.7083",
+      "rating_count": "144",
+      "available_material": "Disponibilizamos raquetes e bolas para alugar",
+      "club_rating": "4.693",
+      "club_rating_count": "759",
+      "uses_slot_optimization": "0",
+      "currency": "\u20ac",
+      "uses_payment_collaterals": "0",
+      "price": "12.66",
+      "favorited": "1",
+      "slots": [
+        {
+          "id": "28373134745",
+          "date": "2022-03-24",
+          "start": "07:00",
+          "end": "07:30",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134746",
+          "date": "2022-03-24",
+          "start": "07:30",
+          "end": "08:00",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134747",
+          "date": "2022-03-24",
+          "start": "08:00",
+          "end": "08:30",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134748",
+          "date": "2022-03-24",
+          "start": "08:30",
+          "end": "09:00",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134749",
+          "date": "2022-03-24",
+          "start": "09:00",
+          "end": "09:30",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134750",
+          "date": "2022-03-24",
+          "start": "09:30",
+          "end": "10:00",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134751",
+          "date": "2022-03-24",
+          "start": "10:00",
+          "end": "10:30",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134752",
+          "date": "2022-03-24",
+          "start": "10:30",
+          "end": "11:00",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 3,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134753",
+          "date": "2022-03-24",
+          "start": "11:00",
+          "end": "11:30",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 2,
+          "durations": [
+            60,
+            90
+          ]
+        },
+        {
+          "id": "28373134754",
+          "date": "2022-03-24",
+          "start": "11:30",
+          "end": "12:00",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 1,
+          "durations": [
+            60
+          ]
+        },
+        {
+          "id": "28373134755",
+          "date": "2022-03-24",
+          "start": "12:00",
+          "end": "12:30",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 0,
+          "lock_reason": "insufficient_duration",
+          "durations": []
+        },
+        {
+          "id": "28373134756",
+          "date": "2022-03-24",
+          "start": "12:30",
+          "end": "13:00",
+          "court_id": "1511",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134757",
+          "date": "2022-03-24",
+          "start": "13:00",
+          "end": "13:30",
+          "court_id": "1511",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134758",
+          "date": "2022-03-24",
+          "start": "13:30",
+          "end": "14:00",
+          "court_id": "1511",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134759",
+          "date": "2022-03-24",
+          "start": "14:00",
+          "end": "14:30",
+          "court_id": "1511",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134760",
+          "date": "2022-03-24",
+          "start": "14:30",
+          "end": "15:00",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134761",
+          "date": "2022-03-24",
+          "start": "15:00",
+          "end": "15:30",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134762",
+          "date": "2022-03-24",
+          "start": "15:30",
+          "end": "16:00",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134763",
+          "date": "2022-03-24",
+          "start": "16:00",
+          "end": "16:30",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 3,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134764",
+          "date": "2022-03-24",
+          "start": "16:30",
+          "end": "17:00",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 2,
+          "durations": [
+            60,
+            90
+          ]
+        },
+        {
+          "id": "28373134765",
+          "date": "2022-03-24",
+          "start": "17:00",
+          "end": "17:30",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 1,
+          "durations": [
+            60
+          ]
+        },
+        {
+          "id": "28373134766",
+          "date": "2022-03-24",
+          "start": "17:30",
+          "end": "18:00",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 0,
+          "lock_reason": "insufficient_duration",
+          "durations": []
+        },
+        {
+          "id": "28373134767",
+          "date": "2022-03-24",
+          "start": "18:00",
+          "end": "18:30",
+          "court_id": "1511",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134768",
+          "date": "2022-03-24",
+          "start": "18:30",
+          "end": "19:00",
+          "court_id": "1511",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134769",
+          "date": "2022-03-24",
+          "start": "19:00",
+          "end": "19:30",
+          "court_id": "1511",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134770",
+          "date": "2022-03-24",
+          "start": "19:30",
+          "end": "20:00",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 0,
+          "lock_reason": "insufficient_duration",
+          "durations": []
+        },
+        {
+          "id": "28373134771",
+          "date": "2022-03-24",
+          "start": "20:00",
+          "end": "20:30",
+          "court_id": "1511",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134772",
+          "date": "2022-03-24",
+          "start": "20:30",
+          "end": "21:00",
+          "court_id": "1511",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134773",
+          "date": "2022-03-24",
+          "start": "21:00",
+          "end": "21:30",
+          "court_id": "1511",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134774",
+          "date": "2022-03-24",
+          "start": "21:30",
+          "end": "22:00",
+          "court_id": "1511",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134775",
+          "date": "2022-03-24",
+          "start": "22:00",
+          "end": "22:30",
+          "court_id": "1511",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134776",
+          "date": "2022-03-24",
+          "start": "22:30",
+          "end": "23:00",
+          "court_id": "1511",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134777",
+          "date": "2022-03-24",
+          "start": "23:00",
+          "end": "23:30",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 1,
+          "durations": [
+            60
+          ]
+        },
+        {
+          "id": "28373134778",
+          "date": "2022-03-24",
+          "start": "23:30",
+          "end": "00:00",
+          "court_id": "1511",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 0,
+          "lock_reason": "insufficient_duration",
+          "durations": []
+        }
+      ],
+      "photos": [
+        {
+          "id": "5633",
+          "court_id": "1511",
+          "path": "https:\/\/www.aircourts.com\/uploads\/courts\/courts_1511_1520951489.jpg",
+          "title": "",
+          "is_cover": "0",
+          "created_on": "2018-03-13 14:31:29"
+        },
+        {
+          "id": "5634",
+          "court_id": "1511",
+          "path": "https:\/\/www.aircourts.com\/uploads\/courts\/courts_1511_1520951497.jpg",
+          "title": "",
+          "is_cover": "0",
+          "created_on": "2018-03-13 14:31:38"
+        }
+      ],
+      "sports": [
+        {
+          "id": "4",
+          "name": "Padel",
+          "image": "http:\/\/www.aircourts.com\/img\/sports\/padel_24x24.png",
+          "photo": "http:\/\/www.aircourts.com\/img\/sports\/padel_24x24.png",
+          "cover_photo": "http:\/\/www.aircourts.com\/img\/sports\/padel20.jpg",
+          "commission": "1.5",
+          "order_number": "0",
+          "court_id": "1511"
+        }
+      ],
+      "schedules": {
+        "schedule": {
+          "court_id": "1511",
+          "monday_open": "07:00:00",
+          "monday_close": "00:00:00",
+          "tuesday_open": "07:00:00",
+          "tuesday_close": "00:00:00",
+          "wednesday_open": "07:00:00",
+          "wednesday_close": "00:00:00",
+          "thursday_open": "07:00:00",
+          "thursday_close": "00:00:00",
+          "friday_open": "07:00:00",
+          "friday_close": "23:00:00",
+          "saturday_open": "08:00:00",
+          "saturday_close": "20:00:00",
+          "sunday_open": "08:00:00",
+          "sunday_close": "00:00:00",
+          "created_on": "2018-02-08 12:14:47"
+        },
+        "opening": "2022-03-24 07:00:00",
+        "closing": "2022-03-25 00:00:00",
+        "opening_time": "07:00:00",
+        "closing_time": "00:00:00",
+        "opening_timestamp": 1648105200,
+        "closing_timestamp": 1648166400,
+        "offline": false
+      },
+      "pricing": [
+        {
+          "id": "2271",
+          "court_id": "1511",
+          "options": "pre\u00e7o antigo (ignorar)",
+          "price": "10",
+          "active": "1",
+          "created_on": "2018-02-08 18:02:58"
+        }
+      ],
+      "pricing_extras": [
+        {
+          "id": "1340",
+          "court_id": "1511",
+          "name": "Aluguer Bolas",
+          "price_modifier": 3,
+          "modifier_type": "absolute",
+          "duration_dependent": "0",
+          "price_tier": "0",
+          "active": "1",
+          "created_on": "2018-02-11 19:52:05"
+        },
+        {
+          "id": "1828",
+          "court_id": "1511",
+          "name": "Aluguer de Raquetes",
+          "price_modifier": 3,
+          "modifier_type": "absolute",
+          "duration_dependent": "0",
+          "price_tier": "0",
+          "active": "1",
+          "created_on": "2021-09-19 17:10:26"
+        },
+        {
+          "id": "1829",
+          "court_id": "1511",
+          "name": "Aluguer de raquetes de Teste",
+          "price_modifier": 6,
+          "modifier_type": "absolute",
+          "duration_dependent": "0",
+          "price_tier": "0",
+          "active": "1",
+          "created_on": "2021-09-19 17:10:50"
+        }
+      ],
+      "price_tiers": [],
+      "advance_exceeded": 0,
+      "smart": 6170.0204235294122554478235542774200439453125,
+      "members_only": 0
+    },
+    {
+      "club_id": "355",
+      "slug": "rackets-pro-saldanha",
+      "club_name": "Rackets Pro - Saldanha",
+      "club_description": "Em pleno cora\u00e7\u00e3o de Lisboa, no Saldanha, encontra-se o mais recente  clube da Rackets Pro, o Rackets Pro Saldanha. Instalado na cobertura do Mercado 31 Janeiro, com uma vista panor\u00e2mica da cidade surge o mais moderno clube de Padel e Fitness, com 5 cobertos e um conceito inovador de fitness - o THE CODE. Com uma esplanada privilegiada para os campos e uma zona lounge com vista sobre a cidade. Jogar e desfrutar do conv\u00edvio nunca foi t\u00e3o f\u00e1cil!",
+      "address": "R. Eng. Vieira da Silva, 1050-094 Lisboa",
+      "logo": "https:\/\/www.aircourts.com\/uploads\/club\/WhatsApp_Image_2021-04-02_at_12_05_53_(1).jpeg",
+      "phone": "21 357 07 03",
+      "zone": "Saldanha",
+      "has_park": "Parque de estacionamento privado",
+      "has_balneary": "Balne\u00e1rios independentes para mulheres e homens",
+      "payment_methods": "Multibanco, Dinheiro, MB Way",
+      "has_bar": "Bar ",
+      "id": "1512",
+      "service_status": "1",
+      "name": "Campo Blackcrown",
+      "description": "Campo de Padel Panor\u00e2mico",
+      "roof": "2",
+      "lighting": "1",
+      "opening_hour": "07:00:00",
+      "closing_hour": "04:00:00",
+      "booking_length": "60",
+      "booking_calendar_length": "30",
+      "booking_maxlength": "120",
+      "booking_advance": "5",
+      "amount": "0",
+      "lat": "38.7310533",
+      "lng": "-9.1447272",
+      "surface": "Relvado Sint\u00e9tico",
+      "payment_policy": "O valor do aluguer mencionado no e-mail de confirma\u00e7\u00e3o \u00e9 referente a 4 PAX visitantes. O valor real do aluguer a pagar ser\u00e1 ajustado tendo em conta o seguinte pre\u00e7\u00e1rio:<ul><li>Visitantes: 9\u20ac\/PAX\/hora <\/li><li>Membros: 8\u20ac\/PAX\/hora<\/li><li>O valor m\u00ednimo aplic\u00e1vel para utiliza\u00e7\u00e3o do campo \u00e9 de 4 pessoas.<\/li><li>Para as reservas com in\u00edcio ap\u00f3s as 22h00, inclusive, o pagamento dever\u00e1 ser feito antes do in\u00edcio do jogo.<\/li><\/ul><ul><\/ul>",
+      "cancel_policy": "Pode cancelar a reserva na sua \u00e1rea de cliente. Dever\u00e1 cancelar a sua reserva com uma anteced\u00eancia m\u00ednima de 12 horas. Caso n\u00e3o se verifique o mencionado no ponto anterior, ser\u00e1 cobrado o valor total do aluguer. O Clube poder\u00e1 alterar o campo da sua reserva caso considere necess\u00e1rio.",
+      "pricing_system_version": "2",
+      "rating": "4.7516",
+      "rating_count": "157",
+      "available_material": "Disponibilizamos raquetes e bolas para alugar",
+      "club_rating": "4.693",
+      "club_rating_count": "759",
+      "uses_slot_optimization": "0",
+      "currency": "\u20ac",
+      "uses_payment_collaterals": "0",
+      "price": "12.66",
+      "favorited": "1",
+      "slots": [
+        {
+          "id": "28373134937",
+          "date": "2022-03-24",
+          "start": "07:00",
+          "end": "07:30",
+          "court_id": "1512",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134938",
+          "date": "2022-03-24",
+          "start": "07:30",
+          "end": "08:00",
+          "court_id": "1512",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134939",
+          "date": "2022-03-24",
+          "start": "08:00",
+          "end": "08:30",
+          "court_id": "1512",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134940",
+          "date": "2022-03-24",
+          "start": "08:30",
+          "end": "09:00",
+          "court_id": "1512",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134941",
+          "date": "2022-03-24",
+          "start": "09:00",
+          "end": "09:30",
+          "court_id": "1512",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134942",
+          "date": "2022-03-24",
+          "start": "09:30",
+          "end": "10:00",
+          "court_id": "1512",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134943",
+          "date": "2022-03-24",
+          "start": "10:00",
+          "end": "10:30",
+          "court_id": "1512",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134944",
+          "date": "2022-03-24",
+          "start": "10:30",
+          "end": "11:00",
+          "court_id": "1512",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 3,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134945",
+          "date": "2022-03-24",
+          "start": "11:00",
+          "end": "11:30",
+          "court_id": "1512",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 2,
+          "durations": [
+            60,
+            90
+          ]
+        },
+        {
+          "id": "28373134946",
+          "date": "2022-03-24",
+          "start": "11:30",
+          "end": "12:00",
+          "court_id": "1512",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 1,
+          "durations": [
+            60
+          ]
+        },
+        {
+          "id": "28373134947",
+          "date": "2022-03-24",
+          "start": "12:00",
+          "end": "12:30",
+          "court_id": "1512",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 0,
+          "lock_reason": "insufficient_duration",
+          "durations": []
+        },
+        {
+          "id": "28373134948",
+          "date": "2022-03-24",
+          "start": "12:30",
+          "end": "13:00",
+          "court_id": "1512",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134949",
+          "date": "2022-03-24",
+          "start": "13:00",
+          "end": "13:30",
+          "court_id": "1512",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134950",
+          "date": "2022-03-24",
+          "start": "13:30",
+          "end": "14:00",
+          "court_id": "1512",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134951",
+          "date": "2022-03-24",
+          "start": "14:00",
+          "end": "14:30",
+          "court_id": "1512",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134952",
+          "date": "2022-03-24",
+          "start": "14:30",
+          "end": "15:00",
+          "court_id": "1512",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134953",
+          "date": "2022-03-24",
+          "start": "15:00",
+          "end": "15:30",
+          "court_id": "1512",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134954",
+          "date": "2022-03-24",
+          "start": "15:30",
+          "end": "16:00",
+          "court_id": "1512",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 4,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134955",
+          "date": "2022-03-24",
+          "start": "16:00",
+          "end": "16:30",
+          "court_id": "1512",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 3,
+          "durations": [
+            60,
+            90,
+            120
+          ]
+        },
+        {
+          "id": "28373134956",
+          "date": "2022-03-24",
+          "start": "16:30",
+          "end": "17:00",
+          "court_id": "1512",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 2,
+          "durations": [
+            60,
+            90
+          ]
+        },
+        {
+          "id": "28373134957",
+          "date": "2022-03-24",
+          "start": "17:00",
+          "end": "17:30",
+          "court_id": "1512",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 1,
+          "durations": [
+            60
+          ]
+        },
+        {
+          "id": "28373134958",
+          "date": "2022-03-24",
+          "start": "17:30",
+          "end": "18:00",
+          "court_id": "1512",
+          "locked": false,
+          "status": "available",
+          "debug": [],
+          "forward": 0,
+          "lock_reason": "insufficient_duration",
+          "durations": []
+        },
+        {
+          "id": "28373134959",
+          "date": "2022-03-24",
+          "start": "18:00",
+          "end": "18:30",
+          "court_id": "1512",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134960",
+          "date": "2022-03-24",
+          "start": "18:30",
+          "end": "19:00",
+          "court_id": "1512",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134961",
+          "date": "2022-03-24",
+          "start": "19:00",
+          "end": "19:30",
+          "court_id": "1512",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134962",
+          "date": "2022-03-24",
+          "start": "19:30",
+          "end": "20:00",
+          "court_id": "1512",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134963",
+          "date": "2022-03-24",
+          "start": "20:00",
+          "end": "20:30",
+          "court_id": "1512",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134964",
+          "date": "2022-03-24",
+          "start": "20:30",
+          "end": "21:00",
+          "court_id": "1512",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134965",
+          "date": "2022-03-24",
+          "start": "21:00",
+          "end": "21:30",
+          "court_id": "1512",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134966",
+          "date": "2022-03-24",
+          "start": "21:30",
+          "end": "22:00",
+          "court_id": "1512",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134967",
+          "date": "2022-03-24",
+          "start": "22:00",
+          "end": "22:30",
+          "court_id": "1512",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134968",
+          "date": "2022-03-24",
+          "start": "22:30",
+          "end": "23:00",
+          "court_id": "1512",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134969",
+          "date": "2022-03-24",
+          "start": "23:00",
+          "end": "23:30",
+          "court_id": "1512",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        },
+        {
+          "id": "28373134970",
+          "date": "2022-03-24",
+          "start": "23:30",
+          "end": "00:00",
+          "court_id": "1512",
+          "locked": true,
+          "status": "booked",
+          "debug": [],
+          "lock_reason": "booked",
+          "durations": []
+        }
+      ],
