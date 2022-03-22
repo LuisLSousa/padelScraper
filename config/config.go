@@ -25,7 +25,7 @@ func (p *Parameters) ImportFromFile() error {
 		fmt.Printf("Error opening the config file: %s", err)
 		return err
 	}
-	
+
 	err = json.Unmarshal(file, p)
 	if err != nil {
 		fmt.Printf("Error unmarshalling config file: %s", err)
@@ -53,8 +53,16 @@ func (p Parameters) validateFields() error {
 		fmt.Printf("Invalid end_date: %s", err)
 	}
 
-	if startDate != endDate && !startDate.Before(endDate) {
+	if !startDate.Before(endDate) && startDate != endDate {
 		return fmt.Errorf("start_date must be before or equal to end_date")
+	}
+
+	if startDate.Before(time.Now()) || endDate.Before(time.Now()) {
+		return fmt.Errorf("start_date and end_date cannot be before today")
+	}
+
+	if endDate.After(time.Now().AddDate(0, 0, 5)) {
+		return fmt.Errorf("end_date cannot be more than five days away from now")
 	}
 	return nil
 }

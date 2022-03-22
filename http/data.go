@@ -12,6 +12,7 @@ type Response struct {
 type PadelField struct {
 	ClubName string `json:"club_name"`
 	Slots    []Slot `json:"slots"`
+	Court    string `json:"name"`
 }
 
 type Slot struct {
