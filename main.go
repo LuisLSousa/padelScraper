@@ -38,38 +38,47 @@ func main() {
 		year, month, day := d.Date()
 		date := fmt.Sprintf("%d-%d-%d", year, int(month), day)
 
-		availableSlot := availableSlot{
-			date: date,
-		}
-
 		// target url is in the form
 		// https://www.aircourts.com/index.php/api/search_with_club/355?sport=0&date=2022-03-18&start_time=18:00
 		targetUrl := fmt.Sprintf("%s&date=%s&start_time=07:00", baseTargetUrl, date)
 		hc := httpClient.New(targetUrl)
 		resp := hc.Get()
 
+		availableSlot := availableSlot{
+			date:  date,
+			court: resp.Results[0].ClubName,
+		}
+
 		for _, slot := range resp.Results[0].Slots {
 			// for each available slot (not booked)
 			if slot.Status == statusAvailable && !slot.Locked {
 				// check if there are enough slots available after it for (configParameters.MinSlots * 30) minutes of play time
 				if slot.Forward >= (configParameters.MinSlots - 1) {
+
 					start, _ := time.Parse(hourLayout, slot.Start)
 					end := start.Add(time.Minute * 30 * time.Duration(configParameters.MinSlots))
-					endString := end.Format(hourLayout)
-					timeframe := fmt.Sprintf("%s - %s", slot.Start, endString)
-					fmt.Printf("Timeframe: %s", timeframe)
-					//availableSlot.hours = append(availableSlot.hours, timeframe)
+					endFormatted := end.Format(hourLayout)
+
+					timeframe := fmt.Sprintf("%s - %s", slot.Start, endFormatted)
+
+					availableSlot.hours = append(availableSlot.hours, timeframe)
 				}
 			}
-			//fmt.Printf("%v", availableSlots)
-
-			availableSlots = append(availableSlots, availableSlot)
 		}
+		availableSlots = append(availableSlots, availableSlot)
 
 	}
-	//// iterate over the slots
-	//for _, as := range availableSlots {
-	//	fmt.Printf("\n\nSlot: %#v\n\n", as)
-	//}
+	// iterate over the slots
+	for _, as := range availableSlots {
+		// if there are any available slots for this date
+		if len(as.hours) > 0 {
+			fmt.Printf("\nCourt: %s", as.court)
+			fmt.Printf("\nDate: %s", as.date)
+			fmt.Printf("\nTime: ")
+			for _, hour := range as.hours {
+				fmt.Printf("%s |", hour)
+			}
+		}
+	}
 
 }
