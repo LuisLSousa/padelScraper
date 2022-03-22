@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
+	"time"
 
 	"padelScraper/config"
-	"padelScraper/http"
 )
 
 // Get Endpoint
@@ -23,12 +23,25 @@ const (
 func main() {
 	var configParameters config.Parameters
 	configParameters.ImportFromFile()
-	// iterate over the configParameters dates, update the target
-	targetUrl := fmt.Sprintf("%s&date=%s&start_time=07:00", baseTargetUrl, configParameters.StartDate)
-	hc := httpClient.New(targetUrl)
-	resp := hc.Get()
 
-	fmt.Printf("%v", resp.Results[0].Slots)
+	startDate, err := time.Parse(dateLayout, configParameters.StartDate)
+	if err != nil {
+		fmt.Printf("Invalid start_date: %s", err)
+	}
+
+	endDate, err := time.Parse(dateLayout, configParameters.EndDate)
+	if err != nil {
+		fmt.Printf("Invalid end_date: %s", err)
+	}
+
+	for d := startDate; d.Before(endDate); d = d.AddDate(0, 0, 1) {
+		//targetUrl := fmt.Sprintf("%s&date=%s&start_time=07:00", baseTargetUrl, d)
+		//hc := httpClient.New(targetUrl)
+		//resp := hc.Get()
+		fmt.Printf("\nDate: %s\n", d)
+		//fmt.Printf("%v", resp.Results[0].Slots)
+
+	}
 
 	// iterate over the slots
 
