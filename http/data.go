@@ -14,11 +14,12 @@ type PadelField struct {
 }
 
 type Slot struct {
-	Date   string `json:"date"`
-	Start  string `json:"start"`
-	End    string `json:"end"`
-	Locked bool   `json:"locked"`
-	Status string `json:"status"`
+	Date    string `json:"date"`
+	Start   string `json:"start"`
+	End     string `json:"end"`
+	Locked  bool   `json:"locked"`
+	Status  string `json:"status"`
+	Forward int    `json:"forward"`
 }
 
 func getBody(body io.Reader, resp interface{}) error {
