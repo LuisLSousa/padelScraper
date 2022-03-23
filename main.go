@@ -15,6 +15,15 @@ import (
 // Rackets Pro Saldanha club_id = 355
 // Todo - add more courts
 
+type availableSlots []availableSlot
+
+type availableSlot struct {
+	club  string
+	court string
+	date  string
+	hours []string
+}
+
 const (
 	dateLayout      = "2006-01-02"
 	hourLayout      = "15:04"
@@ -49,35 +58,44 @@ func main() {
 			date: date,
 			club: resp.Results[0].ClubName,
 		}
-		for v, _ := range resp.Results {
-			availableSlot.court = resp.Results[v].Court
-			for _, slot := range resp.Results[0].Slots {
+		for n, _ := range resp.Results {
+			availableSlot.court = resp.Results[n].Court
+			availableSlot.hours = nil
+			skipSlots := 0
+			for i, slot := range resp.Results[n].Slots {
+				if i < skipSlots {
+					continue
+				}
 				// for each available slot (not booked)
 				if slot.Status == statusAvailable && !slot.Locked {
 					// check if there are enough slots available after it for (configParameters.MinSlots * 30) minutes of play time
 					if slot.Forward >= (configParameters.MinSlots - 1) {
-
 						start, _ := time.Parse(hourLayout, slot.Start)
-						end := start.Add(time.Minute * 30 * time.Duration(configParameters.MinSlots))
+						end := start.Add(time.Minute * 30 * time.Duration(slot.Forward))
 						endFormatted := end.Format(hourLayout)
 
 						timeframe := fmt.Sprintf("%s - %s", slot.Start, endFormatted)
 
 						availableSlot.hours = append(availableSlot.hours, timeframe)
+						skipSlots = i + slot.Forward
 					}
 				}
 			}
 			availableSlots = append(availableSlots, availableSlot)
 		}
-
 	}
 	// iterate over the slots
+	var date string
 	for _, as := range availableSlots {
 		// if there are any available slots for this date
+		if date != as.date {
+			date = as.date
+			fmt.Printf("\n##### Date: %s #####", as.date)
+			fmt.Printf("\n### Club: %s ###", as.club)
+		}
+
 		if len(as.hours) > 0 {
-			fmt.Printf("\nClub: %s", as.club)
 			fmt.Printf("\nCourt: %s", as.court)
-			fmt.Printf("\nDate: %s", as.date)
 			fmt.Printf("\nTime:")
 			for _, hour := range as.hours {
 				fmt.Printf(" %s |", hour)
