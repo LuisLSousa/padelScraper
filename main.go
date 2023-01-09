@@ -12,8 +12,7 @@ import (
 // https://www.aircourts.com/index.php/api/search_with_club/355?sport=0&date=2022-03-18&start_time=18:00
 // start date cannot be 5 days after the current day
 
-// Rackets Pro Saldanha club_id = 355
-// Todo - add more courts
+// Note: Rackets Pro Saldanha club_id = 355
 
 type availableSlots []availableSlot
 
@@ -59,6 +58,7 @@ func main() {
 			club: resp.Results[0].ClubName,
 		}
 		for n, _ := range resp.Results {
+			// TODO add the hours to show 07:00 - 12:00 instead of 07:00 - 09:00 09:00 - 11:00, etc.
 			availableSlot.court = resp.Results[n].Court
 			availableSlot.hours = nil
 			skipSlots := 0
@@ -90,8 +90,8 @@ func main() {
 		// if there are any available slots for this date
 		if date != as.date {
 			date = as.date
-			fmt.Printf("\n##### Date: %s #####", as.date)
-			fmt.Printf("\n### Club: %s ###", as.club)
+			fmt.Printf("\n\n## Date: %s ##", as.date)
+			fmt.Printf("\nClub: %s", as.club)
 		}
 
 		if len(as.hours) > 0 {
